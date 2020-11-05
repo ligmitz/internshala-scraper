@@ -21,5 +21,8 @@
   "homepage": "https://github.com/ligmitz/internshala-scraper#readme",
   "dependencies": {
     "puppeteer": "^5.4.1"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
   }
 }
